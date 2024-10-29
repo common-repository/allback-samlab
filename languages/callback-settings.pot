@@ -1,0 +1,221 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Callback Samlab\n"
+"POT-Creation-Date: 2019-02-23 15:05+0200\n"
+"PO-Revision-Date: 2019-02-21 16:11+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: callback-settings.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-submenu-page.php:40
+msgid "Settings have been saved"
+msgstr ""
+
+#: admin/class-submenu-page.php:124
+msgid "Samlab"
+msgstr ""
+
+#: admin/class-submenu-page.php:127 admin/class-submenu.php:53
+#: callback-settings.php:74 callback-settings.php:215
+msgid "Сallback"
+msgstr ""
+
+#: admin/class-submenu-page.php:127
+msgid "Plugin page"
+msgstr ""
+
+#: admin/class-submenu-page.php:134
+msgid "General"
+msgstr ""
+
+#: admin/class-submenu-page.php:135
+msgid "Settings"
+msgstr ""
+
+#: admin/class-submenu-page.php:136
+msgid "Help"
+msgstr ""
+
+#: admin/class-submenu-page.php:145 admin/class-submenu-page.php:153
+#: callback-settings.php:204
+msgid "Date"
+msgstr ""
+
+#: admin/class-submenu-page.php:146 admin/class-submenu-page.php:154
+#: admin/class-submenu-page.php:179
+msgid "Name"
+msgstr ""
+
+#: admin/class-submenu-page.php:147 admin/class-submenu-page.php:155
+msgid "Content"
+msgstr ""
+
+#: admin/class-submenu-page.php:165
+msgid "Module settings"
+msgstr ""
+
+#: admin/class-submenu-page.php:170
+msgid "Title Сallback"
+msgstr ""
+
+#: admin/class-submenu-page.php:174
+msgid "Use bootstrap"
+msgstr ""
+
+#: admin/class-submenu-page.php:183 admin/class-submenu-page.php:211
+msgid "E-mail"
+msgstr ""
+
+#: admin/class-submenu-page.php:188 callback-settings.php:204
+msgid "Message"
+msgstr ""
+
+#: admin/class-submenu-page.php:193
+msgid "The signature at the bottom of the form"
+msgstr ""
+
+#: admin/class-submenu-page.php:199
+msgid "Thank you after sending"
+msgstr ""
+
+#: admin/class-submenu-page.php:205
+msgid "Use admin widget"
+msgstr ""
+
+#: admin/class-submenu-page.php:222
+msgid "Text Description"
+msgstr ""
+
+#: admin/class-submenu-page.php:226
+msgid "Shortcode to add to pages"
+msgstr ""
+
+#: admin/class-submenu-page.php:227 admin/class-submenu-page.php:233
+msgid "For reference"
+msgstr ""
+
+#: admin/class-submenu-page.php:229 admin/class-submenu-page.php:235
+msgid "For button"
+msgstr ""
+
+#: admin/class-submenu-page.php:231
+msgid "Code for the implementation of the template"
+msgstr ""
+
+#: admin/class-submenu-page.php:238
+msgid "If you want to insert a form into an post"
+msgstr ""
+
+#: admin/class-submenu-page.php:242
+msgid "or"
+msgstr ""
+
+#: admin/class-submenu-page.php:259
+msgid "FAQ"
+msgstr ""
+
+#: admin/class-submenu-page.php:268
+msgid "Homepage"
+msgstr ""
+
+#: admin/class-submenu-page.php:269
+msgid "Facebook"
+msgstr ""
+
+#: admin/class-submenu-page.php:275
+msgid "Save"
+msgstr ""
+
+#: callback-settings.php:78
+msgid "Send me"
+msgstr ""
+
+#: callback-settings.php:91 callback-settings.php:101 callback-settings.php:110
+msgid "Attention"
+msgstr ""
+
+#: callback-settings.php:92 callback-settings.php:102 callback-settings.php:111
+msgid "Required field."
+msgstr ""
+
+#: callback-settings.php:127
+msgid "Cancel"
+msgstr ""
+
+#: callback-settings.php:204
+msgid "Name\\Email"
+msgstr ""
+
+#: callback-settings.php:288
+msgid "Record delited"
+msgstr ""
+
+#: callback-settings.php:319
+msgid "No records yet"
+msgstr ""
+
+#: callback-settings.php:361
+msgid "Callback from the site"
+msgstr ""
+
+#: callback-settings.php:399
+msgid "Alert!"
+msgstr ""
+
+#: callback-settings.php:451 callback-settings.php:477
+msgid "Call me back"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Callback Samlab"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://vseprosto.top/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin makes a simple widget for callback on your website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Aleks Moroz"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://vseprosto.top"
+msgstr ""
+
+#: admin/class-submenu-page.php:180
+msgid "Your Name"
+msgstr ""
+
+#: admin/class-submenu-page.php:184
+msgid "Your E-mail"
+msgstr ""
+
+#: admin/class-submenu-page.php:189
+msgid "Your Message"
+msgstr ""
+
+#: admin/class-submenu-page.php:212
+msgid "E-mail recipient"
+msgstr ""
+
+#: admin/class-submenu-page.php:245
+msgid "And add shortcode for scripts [samlab_callback_form]"
+msgstr ""
